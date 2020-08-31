@@ -1,2 +1,2 @@
-# Laura.Fantini.github.io
+# LauraFantini.github.io
 WebSite didático de treinamento em Webdecign
