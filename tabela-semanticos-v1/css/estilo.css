@@ -1,0 +1,25 @@
+
+table#tabela-verdura {
+    text-align: center;
+    border-collapse: collapse; 
+    background-color: wheat;
+    color: red;
+}
+td {
+    border: 1px solid black;
+    width: 200px;
+}
+ 
+ #tabela-verdura td { 
+    border: 1px solid rgb(192, 166, 117); 
+   
+ }
+ #tabela-verdura tr:nth-child(even) { /*Fileiras - tr pares com fundo amarelo*/
+    background-color: rgb(231, 231, 169);
+ }
+ table#tabela-verdura th:hover{
+    background-color: sandybrown;
+}
+table#tabela-verdura td:hover{
+    background-color: sandybrown;
+}
